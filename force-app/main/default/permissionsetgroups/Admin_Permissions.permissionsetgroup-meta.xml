@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Permission Set for Account and KPI Object Permissions + all System Permissions. This Permset group is used for admin purposes</description>
+    <label>Admin Permissions</label>
+    <permissionSets>App_Permission</permissionSets>
+    <permissionSets>Obj_Account_Permissions</permissionSets>
+    <permissionSets>Obj_KPI_Permissions</permissionSets>
+    <permissionSets>Sys_Permissions_ALL</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>

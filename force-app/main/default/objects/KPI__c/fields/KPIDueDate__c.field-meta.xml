@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>KPIDueDate__c</fullName>
+    <description>Due date for the KPI, also the end date for forecasting calculation</description>
+    <externalId>false</externalId>
+    <label>KPI due date</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>

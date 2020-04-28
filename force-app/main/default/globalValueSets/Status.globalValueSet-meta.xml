@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>open</fullName>
+        <default>false</default>
+        <label>open</label>
+    </customValue>
+    <customValue>
+        <fullName>in progress</fullName>
+        <default>false</default>
+        <label>in progress</label>
+    </customValue>
+    <customValue>
+        <fullName>done</fullName>
+        <default>false</default>
+        <label>done</label>
+    </customValue>
+    <description>Generic status (open / in progress / done) for every object.</description>
+    <masterLabel>Status</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
